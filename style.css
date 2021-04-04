@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#main {
+display: flex;
+flex-direction: row;
+}
+
+#title {
+margin: auto;
+
+}
+#img-div {
+    margin: auto;
+
+}
+#image {
+    margin: auto;
+
+}
+
+#img-caption {
+    margin: auto;
+
+}
+
+#tribute-info {
+    margin: auto;
+
+}
+
+#tribute-link {
+    margin: auto;
+
+}
